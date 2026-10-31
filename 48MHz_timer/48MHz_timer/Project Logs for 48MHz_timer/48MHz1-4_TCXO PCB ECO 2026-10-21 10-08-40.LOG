@@ -1,0 +1,24 @@
+Added Component: Designator=H1(SMA-SMD)
+Added Component: Designator=H2(SMA-SMD)
+Added Component: Designator=H3(SMA-SMD)
+Added Component: Designator=H4(SMA-SMD)
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H1-2
+Add Pin To Net: Unknown Pin: Pin H1-3
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H2-2
+Add Pin To Net: Unknown Pin: Pin H2-3
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H3-2
+Add Pin To Net: Unknown Pin: Pin H3-3
+Added Pin To Net: NetName=NetH4_1 Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=GND Pin=H4-2
+Add Pin To Net: Unknown Pin: Pin H4-3
+Added Member To Class: ClassName=U_48MHz_TCXO Member=Component H1 SMA
+Added Member To Class: ClassName=U_48MHz_TCXO Member=Component H2 SMA
+Added Member To Class: ClassName=U_48MHz_TCXO Member=Component H3 SMA
+Added Member To Class: ClassName=U_48MHz_TCXO Member=Component H4 SMA

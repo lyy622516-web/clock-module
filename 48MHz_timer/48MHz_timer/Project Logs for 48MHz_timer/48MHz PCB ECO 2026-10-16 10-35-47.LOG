@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VDD Pin=R12-2
+Removed Pin From Net: NetName=VDD Pin=R13-2
+Removed Pin From Net: NetName=VDD Pin=R14-2
+Removed Pin From Net: NetName=VDD Pin=R15-1
+Removed Member From Class: ClassName=U_48MHz_TCXO Member=R12
+Removed Member From Class: ClassName=U_48MHz_TCXO Member=R13
+Removed Member From Class: ClassName=U_48MHz_TCXO Member=R14
+Removed Member From Class: ClassName=U_48MHz_TCXO Member=R15
+Change Component Footprint: Designator=C1 Old Footprint=0603_Z New Footprint=0402_Z
+Change Component Footprint: Designator=C2 Old Footprint=0805C New Footprint=0603_Z
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Added Pin To Net: NetName=VDD Pin=U3-1
+Added Pin To Net: NetName=VDD Pin=U3-4
+Added Pin To Net: NetName=VDD Pin=U3-5
+Added Pin To Net: NetName=VDD Pin=U3-16
+Added Member To Class: ClassName=U_POWER Member=Component R1 5.1k
+Added Member To Class: ClassName=U_POWER Member=Component R10 10k
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
